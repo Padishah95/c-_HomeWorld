@@ -1,0 +1,15 @@
+C:\Users\Падишах Павлик\Desktop\HomeWorld\bin\Debug\net6.0\HomeWorld.exe
+C:\Users\Падишах Павлик\Desktop\HomeWorld\bin\Debug\net6.0\HomeWorld.deps.json
+C:\Users\Падишах Павлик\Desktop\HomeWorld\bin\Debug\net6.0\HomeWorld.runtimeconfig.json
+C:\Users\Падишах Павлик\Desktop\HomeWorld\bin\Debug\net6.0\HomeWorld.dll
+C:\Users\Падишах Павлик\Desktop\HomeWorld\bin\Debug\net6.0\HomeWorld.pdb
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\HomeWorld.csproj.AssemblyReference.cache
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\HomeWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\HomeWorld.AssemblyInfoInputs.cache
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\HomeWorld.AssemblyInfo.cs
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\HomeWorld.csproj.CoreCompileInputs.cache
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\HomeWorld.dll
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\refint\HomeWorld.dll
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\HomeWorld.pdb
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\HomeWorld.genruntimeconfig.cache
+C:\Users\Падишах Павлик\Desktop\HomeWorld\obj\Debug\net6.0\ref\HomeWorld.dll
